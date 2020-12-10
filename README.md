@@ -1,6 +1,9 @@
-# ganshin_vue
+# 原神抽卡模拟器_Vue版
 
-> A Vue.js project
+>运行起来需要安装好node.js，Vue，axios，jquery。
+>还是无法舍弃jquery，直接操作DOM的感觉真爽！
+
+> A Vue.js projec
 
 ## Build Setup
 
@@ -8,7 +11,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8081
 npm run dev
 
 # build for production with minification
