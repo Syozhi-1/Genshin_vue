@@ -3,7 +3,7 @@
 >运行起来需要安装好node.js，Vue，axios，jquery。
 >还是无法舍弃jquery，直接操作DOM的感觉真爽！
 
-> 云访问地址 http://47.115.139.136
+> 云访问地址 http://syozhi.top/
 
 
 ## Build Setup
